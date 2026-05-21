@@ -102,11 +102,6 @@ GoRail/
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of the home, search, booking, and dashboard pages here._
-
----
 
 ## 🎓 About
 
